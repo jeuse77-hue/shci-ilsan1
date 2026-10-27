@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jeuse77-hue.github.io/shci-ilsan1/sitemap.xml
